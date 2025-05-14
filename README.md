@@ -8,4 +8,4 @@
 ## Geneartion(mengjie)
 
 
-Finish before AOE 5.13
+We will finish update before AOE 5.13
