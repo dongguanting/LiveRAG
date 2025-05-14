@@ -1,2 +1,8 @@
 # LiveRAG
-The official code of liverag test
+
+## Retrieval(yuyao)
+
+
+
+
+## Geneartion(mengjie)
