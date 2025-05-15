@@ -2,7 +2,9 @@
 
 ## Retrieval(yuyao)
 
-
+```
+python retrieval.py
+```
 
 
 ## Geneartion(mengjie)
