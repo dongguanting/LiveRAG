@@ -1,6 +1,7 @@
 # LiveRAG Challenge
 
 **Team** RUC_DeepSearch
+
 **Number** 2587
 
 ## Retrieval
