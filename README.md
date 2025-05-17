@@ -1,13 +1,13 @@
 # LiveRAG
 
-## Retrieval(yuyao)
+## Retrieval
 
 ```
 python retrieval.py
 ```
 
 
-## Geneartion(mengjie)
+## Geneartion
 
 ### Getting Started
 
