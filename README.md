@@ -4,6 +4,10 @@
 
 **Number** 2587
 
+<img width="605" alt="image" src="https://github.com/user-attachments/assets/ca5c1f42-90c9-4030-bf78-8a3d880f91ca" />
+
+
+
 ## Retrieval
 
 ```
